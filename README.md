@@ -1,0 +1,1 @@
+React application to get information about a movie.
